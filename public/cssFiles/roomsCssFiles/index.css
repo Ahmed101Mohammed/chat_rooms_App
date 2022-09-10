@@ -1,0 +1,87 @@
+.rooms
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 15px;
+}
+
+.rooms div
+{
+    width: 48%;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    cursor: pointer;
+}
+
+.send-form
+{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+.send-form input
+{
+    width: 300px;
+    height: 22px;
+    padding: 6px;
+    font-size: 16px;
+    color: #00774f;
+    outline: none;
+    border-width: 1px;
+    border-color: cornflowerblue;
+    border: none;
+}
+
+.send-form .button
+{
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+    background-color: beige;
+    margin: auto;
+    margin-top: 10px;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+.send-form .button:hover
+{
+    background-color: #fff;
+}
+
+.massg-container
+{
+    height: auto;
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+
+.massg-container .mssge
+{
+    width: fit-content;
+    align-items: center;
+    background-color: darkgreen;
+    padding: 5px;
+    border-left: 5px #c1ff3f solid;
+    margin-bottom: 10px;
+}
+
+.massg-container .mssge h3
+{
+    color: white;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+.massg-container .mssge p
+{
+    color: aquamarine;
+    font-size: 17px;
+}
