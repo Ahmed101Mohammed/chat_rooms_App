@@ -43,4 +43,4 @@ http://localhost:5000/
 ## How to use:
 ### How to register your self:
 When you open the project in the browser, you will see this page:
-![Enter page in chat_rooms_app](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAHZ0lpBtlP8lXebTIEtnA5-gDxLrPaL-CA&usqp=CAU)
+![Enter page in chat_rooms_app](https://drive.google.com/file/d/13ipfoSK4pDaH63icJmqorzsF7fh9G2YM/view?usp=sharing)
