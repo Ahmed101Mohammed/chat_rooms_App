@@ -67,3 +67,7 @@ When you join the page will be like this:
 ### How to write your message?
 Under the room par you can see an input, In this input you can write your message, like this:
 ![Writing message in the message input](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/writeYourMessage.png)
+
+### How to send your message?
+Undet the message input you can see a button with "send" word, click it and your message will send:
+![Sending message in messaging page](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/putTheSendButtonToSendMSSG.png)
