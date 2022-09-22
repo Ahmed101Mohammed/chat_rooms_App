@@ -56,10 +56,14 @@ When you open the project in the browser, you will see this page:
 When you click the middle button, You will see this page:
 ![Rooms and chating page](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/roomsPageInChatRoomsApp.png)
 
-To join to one of these pages ("Art", "sports"), All you need to do is to click on the room that you want to join to.
+To join to one of these pages ("Arts", "sports"), All you need to do is to click on the room that you want to join to.
 When you join the page will be like this:
 ![What Rooms and chating page like after choosing the room](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/choseRoomFromRooms.png)
 
 > ***Note***:
 > 1 - Every time you join to a room, all old message will removed.
 > 2 - you can't join to more one room.
+
+### How to write your message?
+Under the room par you can see an input, In this input you can write your message, like this:
+![Writing message in the message input](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/writeYourMessage.png)
