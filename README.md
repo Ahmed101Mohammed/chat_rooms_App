@@ -44,3 +44,10 @@ http://localhost:5000/
 ### How to register your self:
 When you open the project in the browser, you will see this page:
 ![Enter page in chat_rooms_app](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/enterBageInChatRoomsProject.png)
+1 - Write your name in the middle input:
+> In th middle of the page you can see an input, 
+> In this input you will write your name.
+
+2 - Click the middle button:
+> Under the input you can see a button,
+> click it, after riting your name.
