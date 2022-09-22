@@ -41,7 +41,7 @@ In this step the server will run in port ***5000***.
 http://localhost:5000/
 ```
 ## How to use:
-### How to register your self:
+### How to register your self?
 When you open the project in the browser, you will see this page:
 ![Enter page in chat_rooms_app](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/enterBageInChatRoomsProject.png)
 1 - Write your name in the middle input:
@@ -51,3 +51,15 @@ When you open the project in the browser, you will see this page:
 2 - Click the middle button:
 > Under the input you can see a button,
 > click it, after riting your name.
+
+### How to join to a room?
+When you click the middle button, You will see this page:
+![Rooms and chating page](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/roomsPageInChatRoomsApp.png)
+
+To join to one of these pages ("Art", "sports"), All you need to do is to click on the room that you want to join to.
+When you join the page will be like this:
+![What Rooms and chating page like after choosing the room](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/choseRoomFromRooms.png)
+
+> ***Note***:
+> 1 - Every time you join to a room, all old message will removed.
+> 2 - you can't join to more one room.
