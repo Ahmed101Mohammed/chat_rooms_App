@@ -71,3 +71,10 @@ Under the room par you can see an input, In this input you can write your messag
 ### How to send your message?
 Undet the message input you can see a button with "send" word, click it and your message will send:
 ![Sending message in messaging page](https://github.com/Ahmed101Mohammed/chat_rooms_App/blob/main/images/putTheSendButtonToSendMSSG.png)
+
+### How to test the webSocket protocole in this project:
+> You can open many taps in your browser, and type this line in search input of every tab:
+```
+http://localhost:5000/
+```
+> Then you can use every tab as a uniq user, and use the project in any way, according the "How to use?" part of the README file that you read now.
