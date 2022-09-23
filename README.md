@@ -1,3 +1,7 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Ahmed101Mohammed/chat_rooms_App?color=red&logoColor=green&style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ahmed101Mohammed/chat_rooms_App?logoColor=green&style=social)
+![GitHub](https://img.shields.io/github/license/Ahmed101Mohammed/chat_rooms_App?color=red)
+
 # chat rooms App
 simple chat rooms app with just two rooms.
 
@@ -79,7 +83,8 @@ http://localhost:5000/
 ```
 > Then you can use every tab as a uniq user, and use the project in any way, according the "How to use?" part of the README file that you read now.
 
-## MIT License
+## The License:
+The MIT License (MIT)
 
 Copyright (c) 2022 Ahmed M. Mohamed
 
