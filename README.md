@@ -1,6 +1,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ahmed101Mohammed/chat_rooms_App?color=red&logoColor=green&style=social)
+&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/Ahmed101Mohammed/chat_rooms_App?logoColor=green&style=social)
-![GitHub](https://img.shields.io/github/license/Ahmed101Mohammed/chat_rooms_App?color=red)
+&nbsp;
+![GitHub](https://img.shields.io/github/license/Ahmed101Mohammed/chat_rooms_App?style=flat-square)
 
 # chat rooms App
 simple chat rooms app with just two rooms.
